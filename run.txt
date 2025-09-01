@@ -1,0 +1,6 @@
+to run backend :
+npm install
+npm run start
+
+to run app:
+npx expo start --clear
