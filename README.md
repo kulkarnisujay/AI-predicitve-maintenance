@@ -33,7 +33,7 @@ To get started, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/h-rathod/AI-Predictive-Maintenance.git
+   git clone https://github.com/kulkarnisujay/AI-Predictive-Maintenance.git
    ```
 
 2. **Navigate to the Project Directory**: All modules are located within the `react-native/` directory:
@@ -165,3 +165,4 @@ This repository unifies all major components of the IoT Predictive Maintenance S
 For questions or feedback, please open an issue on this repository.
 
 © 2025 [Harsh Rathod](https://h-rathod.github.io). All rights reserved.
+
